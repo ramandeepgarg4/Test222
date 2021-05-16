@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-16 09:36:37</sys_created_on>
+        <sys_id>1f4aa5132f443010ccd65e972799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_303442_test222_table2.x_303442_test222.table2_user</sys_name>
+        <sys_package display_value="test222" source="x_303442_test222">f776259b2f043010ccd65e972799b669</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test222">f776259b2f043010ccd65e972799b669</sys_scope>
+        <sys_security_acl display_value="x_303442_test222_table2">5f4aa5132f443010ccd65e972799b603</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1f4aa5132f443010ccd65e972799b606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-16 09:36:37</sys_updated_on>
+        <sys_user_role display_value="x_303442_test222.table2_user" name="x_303442_test222.table2_user">db4ae1132f443010ccd65e972799b61c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
