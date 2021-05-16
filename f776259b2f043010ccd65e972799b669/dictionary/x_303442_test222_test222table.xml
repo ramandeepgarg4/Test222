@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Test222Table" max_length="40" name="x_303442_test222_test222table" type="collection"/>
+    <element label="Test222Table" max_length="40" name="x_303442_test222_test222table" type="collection">
+        <element label="des" max_length="69" name="des" type="string"/>
+        <element label="sd" max_length="40" name="sd" type="string"/>
+    </element>
 </database>
